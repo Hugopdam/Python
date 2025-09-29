@@ -1,0 +1,8 @@
+num1_e = input("Introduce el primer valor:")
+num2_e = input("Introduce el segundo valor:")
+num1 = int(num1_e)
+num2 = int(num2_e)
+print(f"{num1} + {num2} =", (num1 + num2))
+print(f"{num1} - {num2} =", (num1 - num2))
+print(f"{num1} * {num2} =", (num1 * num2))
+print(f"{num1} / {num2} =", (num1 / num2))
